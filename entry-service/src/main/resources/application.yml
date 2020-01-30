@@ -1,0 +1,7 @@
+opentracing:
+  jaeger:
+    enabled: true
+    service-name: entry-service
+
+server:
+  port: 8080

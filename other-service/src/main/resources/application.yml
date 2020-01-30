@@ -1,0 +1,7 @@
+opentracing:
+  jaeger:
+    enabled: true
+    service-name: other-service
+
+server:
+  port: 8081
